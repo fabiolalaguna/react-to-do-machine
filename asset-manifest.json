@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/fabiolalaguna/react-to-do-machine.git/static/css/main.8379a60e.css",
+    "main.js": "/fabiolalaguna/react-to-do-machine.git/static/js/main.e3d4eefc.js",
+    "static/media/todo.jpg": "/fabiolalaguna/react-to-do-machine.git/static/media/todo.1205443d7a6013905bc1.jpg",
+    "index.html": "/fabiolalaguna/react-to-do-machine.git/index.html",
+    "main.8379a60e.css.map": "/fabiolalaguna/react-to-do-machine.git/static/css/main.8379a60e.css.map",
+    "main.e3d4eefc.js.map": "/fabiolalaguna/react-to-do-machine.git/static/js/main.e3d4eefc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8379a60e.css",
+    "static/js/main.e3d4eefc.js"
+  ]
+}
